@@ -11,3 +11,9 @@ s;d
 ';l
 's;d'
 f;
+
+
+
+G:\Projects\software\Git\bin\sh.exe --login -i
+
+G:\Projects\software\Git\bin\wish.exe "G:\Projects\software\Git\libexec\git-core\git-gui"
